@@ -1,8 +1,9 @@
 *
 {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 img {
@@ -72,7 +73,7 @@ header {
     width: 99%;
   }
   
-  main section.data section.end {
+  main section.data section.phone {
     width: 65%;
   }
   
@@ -177,7 +178,7 @@ header {
 
 
 
-  
+
 
   @media screen and (max-width: 1610px) {
     main section.data div.cards {
