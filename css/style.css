@@ -151,7 +151,10 @@ main section.alldata section.data ul li span.school {
   font-size: 1.75rem;
   font-weight: bolder;
 }
-
+main section.alldata section.data ul li span.Job {
+  font-size: 1.75rem;
+  font-weight: bolder;
+}
 main section.alldata section.data ul li span.year {
   color: plum;
   font-size: 1.25rem;
@@ -197,7 +200,7 @@ main section.alldata section.data div.skill {
       flex-wrap: wrap;
 }
 
-main section.alldata section.data div.skill hr {
+main section.alldata section.data div.skill ul {
   margin-bottom: 1rem;
 }
 
